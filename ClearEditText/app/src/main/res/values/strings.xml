@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ClearEditText</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_clear_edit_text">ClearEditText</string>
+</resources>
